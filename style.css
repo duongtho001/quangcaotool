@@ -1361,6 +1361,26 @@ body {
     line-height: 1.6;
 }
 
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+    height: 0;
+    overflow: hidden;
+    border-radius: var(--radius-md);
+    border: 1px solid var(--border-color);
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    background: #000;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
 /* Responsive Breakpoints */
 @media (max-width: 1024px) {
     .products-grid {
@@ -1471,6 +1491,10 @@ body {
         align-items: center;
         text-align: center;
         gap: 12px;
+    }
+    
+    .video-container {
+        padding-bottom: 75%; /* Tăng tỉ lệ chiều cao trên mobile để video dễ nhìn hơn trong khung hẹp */
     }
 }
 
