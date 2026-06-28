@@ -8,6 +8,7 @@ yarn-error.log*
 # OS Files
 .DS_Store
 Thumbs.db
+*.exe
 
 # Project local config
 .vscode/
