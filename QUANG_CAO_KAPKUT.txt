@@ -1,0 +1,69 @@
+================================================================================
+           CHIEN DICH TRUYEN THONG & DINH VI THUONG HIEU: KAPKUT PRO
+================================================================================
+
+1. TEN GOI VA DINH VI THUONG HIEU
+----------------------------------
+- Ten san pham: kapkut Pro (Doc la "Cap-cut Pro" phien ban toi uu hoa toc do)
+- Thong diep cot loi (Slogan): "Biên tap video & Phụ de AI siêu toc trong 1 click"
+- Gia tri khac biet:
+  + Khong ton thoi gian go phu de tay (AI tu dong nghe va dich ngon ngu).
+  + Khong lo het han/het quota API (Tich hop linh hoat Gemini API va Antigravity Proxy).
+  + Khong cho doi render lau (Tan dung 100% suc manh GPU de tu dong chen chuyen canh vao tat ca video trong vai giay).
+
+2. DOI TUONG KHACH HANG MUC TIEU (TARGET AUDIENCE)
+--------------------------------------------------
+- Nhom 1: TikTokers, Re-upers, Content Creators lam video short (ngan) doc nhu TikTok, Reels, YouTube Shorts.
+  + Do tuoi: 18 - 35.
+  + Nhu cau: Xuat video hang loat, chen sub nhanh de thu thuong xem luot qua (chong luot qua).
+- Nhom 2: Nguoi ban hang online, lam tieu dung, review san pham.
+  + Do tuoi: 24 - 40.
+  + Nhu cau: Video bat mat, chu thich san pham ro rang, chuyen canh muot ma de tang ty le chuyen doi don hang.
+- Nhom 3: Dan lam phim nuoc ngoai, dich thuat video tuong tac, chia se kien thuc.
+  + Do tuoi: 20 - 45.
+  + Nhu cau: Dich thuat phu de tieng Anh/Trung/Han sang tieng Viet hoac nguoc lai cuc nhanh bang AI chat luong cao.
+
+3. NOI DUNG QUANG CAO (COPYWRITING TAP TRUNG VAO LOI ICH)
+---------------------------------------------------------
+[Bai Viet 1 - Danh vao noi dau mat thoi gian cua Editor]
+Tieu de: BI QUYET DUONG PHU DE 10 PHUT VIDEO CHI TRONG 30 GIAY!
+Noi dung:
+"Ban mat ca buoi toi chi de nghe va go tung dong phu de cho video?
+Hay bo ngay cach lam thu cong ay di va de KAPKUT PRO lam thay ban trong chop mat!
+- Trich xuat phu de tu giong noi chinh xac den 98% nho tri tue nhan tao AI.
+- Chuyen ngu ngon ngu ngay lap tuc: Viet hoa phu de nuoc ngoai hoac dich sang tieng Anh de tiep can khan gia quoc te.
+- Tu dong chen chuyen canh vao tat ca video: Chi can 1-Click la tat ca video khi ghep duoc chen cac hieu ung chuyen canh muot ma (fade, slide, zoom...) nho cong nghe render GPU phan cung.
+Click ngay de x2 doanh so va nang cao nang suat lam video cua ban!
+Lien he so huu ban quyen: Duong Tho - 0934415387"
+
+[Bai Viet 2 - Tap trung vao tinh nang mien phi thong minh qua Proxy]
+Tieu de: KAPKUT PRO + ANTIGRAVITY TOOL: DUNG AI KHONG GIOI HAN, KHONG LO HAT QUOTA!
+Noi dung:
+"Kinh doanh va lam video Shorts phai chi qua nhieu tien cho API Key?
+Kapkut Pro mang den giai phap dot pha: Tu dong ket noi qua proxy cua Antigravity Tool chay ngam de ban su dung phu de AI hoan toan mien phi, khong gioi han!
+- Dich thuat & chuyen ngu phu de cuc ky linh hoat, cho phep click chuyen doi qua lai giua ban goc va ban dich ngay tren Timeline.
+- Giao dien hien dai, ho tro ghep noi chuyen canh va thay ao video bang cac bo loc mau dien anh Vintage, Cinematic...
+Lien he mua License ngay hom nay de nhan uu dai doc quyen: Duong Tho - 0934415387"
+
+[Bai Viet 3 - Quang cao ngan gon day du tinh nang]
+Tieu de: KAPKUT PRO - CHI TU 1-CLICK: KET XUAT VIDEO AI TRON GOI!
+Noi dung:
+"Kapkut Pro - Sieu cong cu giup ban x10 nang suat lam video tu A den Z:
+1. TRICH XUAT PHU DE AI: Tu dong chuyen giong noi thanh van ban trong vai giay.
+2. DICH THUAT & SWAP PHU DE: Dich phu de nhanh chong va cho phep chon hien thi/xuat video theo phu de Goc hoac ban Dich.
+3. MAU CHU THIET KE SAN (PRESETS): 4 kieu chu nghe thuat (Co Phong, Toi Gian, Neon, Phim Co Dien) keo tha cuc de.
+4. BO LOC MAU SAC VIDEO: Vintage, Cinematic, Romance, Melancholy bien doi mau sac video ngay lap tuc.
+5. GHEP CHUYEN CANH TU DONG: Tu dong chen hieu ung chuyen canh vao tat ca cac video clip khi ghep (fade, slide, zoom...), render GPU phan cung sieu toc.
+6. PROXY MIEN PHI: Tu dong ket noi Antigravity Tool chay ngam de chay AI khong can dien API Key.
+
+Giai phong suc lao dong, sang tao vo han!
+Lien he ngay: Duong Tho - 0934415387"
+
+4. HINH ANH & VIDEO MINH HOA (MARKETING COLLATERALS)
+----------------------------------------------------
+- Hinh anh 1: Banner quang cao Kapkut Pro voi tone mau toi hien dai, hien thi logo bieu tuong sam set, anh chup giao dien timeline chuyen nghiep va cac bieu tuong tri tue nhan tao AI phat sang.
+- Video Demo: Quay lai thao tac keo video -> nhan "Trich Xuat Phu De" trong 5 giay -> tu dong dich ngon ngu -> bam "Xuat Video" va cho ket qua chay muot ma.
+
+================================================================================
+               Duong Tho - 0934415387 | Chuyen cung cap tool video AI
+================================================================================
