@@ -1,0 +1,67 @@
+================================================================================
+          TÀI LIỆU TIẾP THỊ & QUẢNG CÁO - CAPCUT VOICE STUDIO (capcutapi)
+================================================================================
+
+--------------------------------------------------------------------------------
+DẠNG 1: BÀI VIẾT CHẠM VÀO NỖI ĐAU (PAIN-POINT POST)
+--------------------------------------------------------------------------------
+Tiêu đề: BẠN VẪN ĐANG LỒNG TIẾNG VIDEO THỦ CÔNG? TỐN HÀNG GIỜ CHỈ ĐỂ ĐỒNG BỘ 1 PHÚT PHỤ ĐỀ?
+
+Có phải bạn đang gặp phải những cơn ác mộng này khi làm video:
+❌ Phải tự thu âm đi thu âm lại vì vấp chữ, hụt hơi hoặc tạp âm xung quanh quá nhiều?
+❌ Tốn hàng triệu đồng mỗi tháng để thuê người lồng tiếng/đọc lời bình cho video?
+❌ Đau đầu ngồi kéo thả từng đoạn âm thanh để khớp với file phụ đề chạy chữ SRT?
+
+Hãy quên đi sự mệt mỏi đó! CapCut Voice Studio đã xuất hiện - vị cứu tinh tối ưu giúp bạn giải phóng sức lao động và tối ưu hóa quy trình sản xuất video.
+
+Chỉ với một cú đúp chuột mở tệp "CapCutVoiceStudio.exe", bạn sở hữu ngay một phòng thu AI chuyên nghiệp ngay trên máy tính của mình. Ứng dụng tự động chuyển đổi văn bản và phụ đề thành giọng đọc AI biểu cảm, tự nhiên và khớp mốc thời gian hoàn chỉnh trong nháy mắt.
+
+👉 Trải nghiệm ứng dụng & Tìm hiểu thêm tại: https://tool.eay.vn/
+📞 Nhắn tin Zalo Đường Thọ để kích hoạt bản quyền: 0934415387 (Zalo)
+
+--------------------------------------------------------------------------------
+DẠNG 2: BÀI VIẾT LIỆT KÊ TÍNH NĂNG DẠNG LỢI ÍCH (FEATURE-BENEFIT POST)
+--------------------------------------------------------------------------------
+Tiêu đề: CAPCUT VOICE STUDIO - THUYẾT MINH PHỤ ĐỀ SRT CHỈ TRONG 1 CÚ CLICK!
+
+Khám phá 5 tính năng đột phá giúp bạn tăng tốc độ sản xuất video lên gấp 10 lần:
+
+🚀 1. Đọc thuyết minh theo file SRT (SRT to Speech)
+Chỉ cần tải tệp phụ đề .srt hoặc dán nội dung văn bản SRT vào khung nhập liệu, ứng dụng sẽ tự động chuyển đổi từng phân cảnh thành giọng nói và xuất ra một file âm thanh đồng bộ khớp từng mili-giây với video gốc.
+
+🎧 2. Xử lý đa luồng song song (Multi-threading)
+Không còn phải đợi đọc từng dòng một! Ứng dụng chạy 4 luồng xử lý song song cùng lúc, rút ngắn 90% thời gian chờ đợi đối với các file phụ đề dài hàng trăm câu.
+
+🎙️ 3. Kho 120+ giọng đọc AI đỉnh cao
+Hỗ trợ đầy đủ 24 giọng đọc tiếng Việt cực hot (Nhỏ Ngọt Ngào, Giọng Bé, Cô Gái Hoạt Ngôn, Review Phim mới, Bản Tin...) cùng hàng trăm giọng đọc tiếng Anh, tiếng Trung, tiếng Nhật, tiếng Thái biểu cảm khác.
+
+💻 4. Giao diện Desktop Native App mượt mà
+Giao diện kính mờ (glassmorphism) hiện đại, chạy mượt mà dưới dạng cửa sổ độc lập (Electron-style), tích hợp sẵn bộ giải mã FFmpeg bên trong mà không cần cài đặt môi trường phức tạp.
+
+🔒 5. Bản quyền an toàn, kích hoạt nhanh chóng
+Quản lý bảo mật thiết bị chặt chẽ thông qua hệ thống kích hoạt License Key (Supabase API) cho sản phẩm "capcutapi". Hỗ trợ tự động chạy ngoại tuyến khi máy tính mất mạng.
+
+👉 Xem chi tiết các sản phẩm công nghệ khác của chúng tôi tại: https://tool.eay.vn/
+💬 Kích hoạt License key sử dụng vĩnh viễn: Liên hệ Đường Thọ Zalo - 0934415387
+
+--------------------------------------------------------------------------------
+DẠNG 3: BÀI VIẾT VỀ KHÍA CẠNH KINH TẾ/CHI PHÍ (COST-EFFECTIVE POST)
+--------------------------------------------------------------------------------
+Tiêu đề: LỒNG TIẾNG VIDEO CHUYÊN NGHIỆP VỚI CHI PHÍ 0 ĐỒNG - BÍ QUYẾT BỨT PHÁ KÊNH TRIỆU VIEW
+
+Bạn muốn làm video ngắn kiếm tiền, xây kênh TikTok/YouTube nhưng ngân sách eo hẹp?
+
+💰 Thuê voice talent lồng tiếng bên ngoài tốn từ 200.000đ - 1.000.000đ cho mỗi video ngắn.
+💰 Sử dụng các công cụ TTS trực tuyến thường bị giới hạn ký tự đọc và tính phí thuê bao tháng đắt đỏ.
+
+Với CapCut Voice Studio, bạn sẽ phá vỡ mọi rào cản tài chính:
+✅ Tận dụng công nghệ AI giọng nói chất lượng cao nhất hiện nay hoàn toàn MIỄN PHÍ.
+✅ Không giới hạn số lượng ký tự nhập vào, không lo phí phát sinh hàng tháng.
+✅ Cơ chế tự động xoay vòng tham số thiết bị giúp gửi yêu cầu mượt mà không lo bị hạn chế tần suất (rate limits).
+✅ Tiết kiệm hàng chục triệu đồng chi phí sản xuất nội dung mỗi tháng.
+
+Kích hoạt bản quyền một lần duy nhất - Sở hữu trọn đời công cụ dubbing hàng đầu!
+
+👉 Khám phá kho sản phẩm hữu ích: https://tool.eay.vn/
+💬 Nhận Key kích hoạt ngay hôm nay: Đường Thọ Zalo - 0934415387
+================================================================================
